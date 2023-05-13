@@ -2,7 +2,7 @@
 
 ### Question 1
 
-La fonction foo(), prend en entrée un tableau de tableaux contenant deux entiers chacun et renvoie un nouveau tableau de tableaux qui fusionne les sous-listes ayant des éléments qui se chevauchent.
+La fonction foo(), prend en entrée un tableau de tableaux contenant deux entiers chacuns et renvoie un nouveau tableau de tableaux qui fusionne les sous-listes ayant des éléments qui se chevauchent.
 
 ### Question 2
 
